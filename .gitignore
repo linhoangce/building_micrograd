@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+*.ipynb-output/
+
+# Anaconda Environment
+micrograd/
+*.conda
+*.egg-info/
+
+# Other
+*.log
+*.csv
+*.h5
+*.model
+*.data
