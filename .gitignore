@@ -1,11 +1,8 @@
 # Python
 __pycache__/
-*.py[cod]
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
-*.ipynb
-*.ipynb-output/
 
 # Anaconda Environment
 micrograd/
@@ -16,5 +13,3 @@ micrograd/
 *.log
 *.csv
 *.h5
-*.model
-*.data
